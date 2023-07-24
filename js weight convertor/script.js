@@ -6,3 +6,4 @@ document.getElementById('wtInput').addEventListener('input', function(e){
     document.getElementById('kgOutput').innerHTML = lbs/2.2406;
     document.getElementById('ozOutput').innerHTML = lbs*16;
 })
+
